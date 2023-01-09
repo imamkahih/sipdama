@@ -19,3 +19,7 @@ apabila sudah selesai sialhakan jalankan perintah:
 
 -   php artisan migrate
 -   php artisan serve
+
+**harap jalan dengan dua terminal**
+- terminal 1 = **npm run dev**
+- terminal 2 = **php artisan serve**
