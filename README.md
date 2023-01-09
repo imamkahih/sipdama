@@ -1,8 +1,8 @@
 ## Data Diri
 
-Nama : Imam Muhammad Mannar Shahih
-Asal : Bandung
-Kampus : Universitas Adhirajasa Reswara Sanjaya
+- Nama : Imam Muhammad Mannar Shahih
+- Asal : Bandung
+- Kampus : Universitas Adhirajasa Reswara Sanjaya
 
 ## Setup Project
 
