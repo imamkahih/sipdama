@@ -6,10 +6,9 @@
 
 ## Setup Project
 
-clone project ini
-setup .env dengan isi database sipdama atau jadikan .env.example menjadi .env
-buat database pada phpmyadmin dengan nama sipdama
-jalankan perintah:
+-   clone project ini
+-   setup .env dengan isi database sipdama atau jadikan .env.example menjadi .env
+-   buat database pada phpmyadmin dengan nama sipdama
 -   composer i
 -   npm install
 -   php artisan migrate
